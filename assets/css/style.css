@@ -1,0 +1,22 @@
+#main-container{
+    background-color: palevioletred;
+    widows: 60%;
+    height: 500px;
+    color: yellow;
+    text-align: center;
+}
+
+body{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%
+}
+.btn{
+    background-color: rgb(75, 10, 75);
+    border-color: bisque;
+}
+#start{
+    widows: 160px;
+    background-color: rgb(75, 10, 75);
+    color: aliceblue;
+}
