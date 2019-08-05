@@ -20,3 +20,20 @@ body{
     background-color: rgb(75, 10, 75);
     color: aliceblue;
 }
+#text{
+    color: rgb(145, 11, 145);
+    font-size: 50px;
+    font-style: oblique;
+}
+
+h3{
+    color:rgb(54, 21, 199);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#timer{
+    color: black
+}
+.images{
+    
+    border-color: black;
+}
